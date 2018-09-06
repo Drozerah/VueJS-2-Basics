@@ -7,7 +7,7 @@
 > Switch to the ordered branches of this repo to follow the steps
 
 - [x] 0 [GETTING STARTED](https://www.youtube.com/watch?v=nyJSd6V2DRI&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07&index=2&t=0s)  : master branch
-- [ ] 1 [EVENTS & METHODS](https://www.youtube.com/watch?v=8gkT_yWvP3c&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07&index=3&t=0s) : branch 1
+- [x] 1 [EVENTS & METHODS](https://www.youtube.com/watch?v=8gkT_yWvP3c&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07&index=3&t=0s) : branch 1
 - [ ] 2 [BINDING HTML ATTRIBUTES](https://www.youtube.com/watch?v=N198LSY_jTw&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07&index=4&t=0s) : branch 2
 - [ ] 3 [COMPUTED PROPERTIES](https://www.youtube.com/watch?v=cx2WnT_sckA&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07&index=5&t=0s) : branch 3
 - [ ] 4 [CONDITIONALS & LISTS](https://www.youtube.com/watch?v=sI_vgLd_CyU&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07&index=6&t=0s) : branch 4
