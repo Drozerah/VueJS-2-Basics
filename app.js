@@ -1,10 +1,17 @@
 new Vue({
     el: '#app',
     data: {
-        title: "Dynamically bind attributes",
-        instruction: "Enter the \"blue\" or \"red\" string into the input text field below",
-        cssClass: ''
+        clicks: 0
+    },
+    methods: {
+        increment() {
+            this.clicks++;
+        }
+    },
+    computed: {
+        counter() {
+            return this.clicks * 2; 
+        }
     }
-
 
 })
