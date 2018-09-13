@@ -4,7 +4,7 @@
 
 ### MAP
 
-> Switch to the ordered branches of this repo to follow the steps
+> The repo is split into multiple branches that correspond with the different sections below.
 
 - [x] 0 [GETTING STARTED](https://www.youtube.com/watch?v=nyJSd6V2DRI&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07&index=2&t=0s)  : master branch
 - [ ] 1 [EVENTS & METHODS](https://www.youtube.com/watch?v=8gkT_yWvP3c&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07&index=3&t=0s) : branch 1
